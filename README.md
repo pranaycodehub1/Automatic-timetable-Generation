@@ -86,7 +86,7 @@ Place your project screenshots in a `screenshots/` folder and reference them bel
    SOURCE database.sql;
    ```
 
-3. **Configure Database in **``
+3. \*\*Configure Database in \*\*\`\`
 
    ```php
    $host = 'localhost';
@@ -137,5 +137,5 @@ Place your project screenshots in a `screenshots/` folder and reference them bel
 
 ## 📧 Contact
 
-For questions or issues, feel free to open an issue or contact at [**your-email@example.com**](mailto\:your-email@example.com).
+For questions or issues, feel free to open an issue or contact at [**galipranay123@gmail.com**](mailto\:galipranay123@gmail.com).
 
